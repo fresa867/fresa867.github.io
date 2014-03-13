@@ -71,7 +71,5 @@ form {
 
 @media only screen 
 and (max-width : 320px) {
-	#character{
-		font-size: 10px;	
-	}
+	
 } 
